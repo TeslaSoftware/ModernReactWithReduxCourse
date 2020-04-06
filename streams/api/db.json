@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "STREAM 2",
+      "description": "Here is some stream",
+      "id": 1
+    },
+    {
+      "title": "Fancy Stream",
+      "description": "This is cool!",
+      "id": 2
+    },
+    {
+      "title": "Fancy Stream",
+      "description": "This is cool!",
+      "id": 3
+    },
+    {
+      "title": "I created that stream 2",
+      "description": "This was made by me 2",
+      "userId": "111304507799138324908",
+      "id": 4
+    },
+    {
+      "title": "unexpected behavior 2",
+      "description": "did not expect this 2a",
+      "userId": "111304507799138324908",
+      "id": 5
+    },
+    {
+      "title": "Stream Jan 19",
+      "description": "Stream Jan 19",
+      "userId": "111304507799138324908",
+      "id": 6
+    }
+  ]
+}
