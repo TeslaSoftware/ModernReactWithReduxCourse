@@ -15,8 +15,8 @@ Each project can be run by going to its directory and running command
 * components - project containing various components showing how they can work with in conjuction with each other
 * pics - project that uses unsplash API to fetch images based on the search keyword
 * seasons - application that changes its theme based on the season of the year
-* songs - 
-* streams - 
-* videos-hooks - 
-* videos - 
-* widgets - 
+* songs - app exploring usage of Redux: actions and reducers
+* streams - two tier application (API and front-end) allowing to create streams (like Twitch streams) by using React and Redux on the front-end and json-server on the back-end 
+* videos - allows to search and play vidoes from Youtube based on the search keyword 
+* videos-hooks - same as above, but converted to utilize React hooks
+* widgets - various components created in React for purpose of learning
